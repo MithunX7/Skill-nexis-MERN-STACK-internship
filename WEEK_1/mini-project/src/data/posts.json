@@ -1,0 +1,57 @@
+
+[
+  {
+    "id": 1,
+    "title": "Getting Started with React",
+    "category": "React",
+    "author": "Rahul Sharma",
+    "date": "November 1, 2026",
+    "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=600",
+    "description": "Learn the basics of React and understand how components help you build modern websites."
+  },
+  {
+    "id": 2,
+    "title": "Mastering JavaScript Basics",
+    "category": "JavaScript",
+    "author": "Priya Verma",
+    "date": "October 28, 2026",
+    "image": "https://images.unsplash.com/photo-1579468118864-1b9ea3c0db4a?w=600",
+    "description": "Explore variables, functions, arrays and objects to strengthen your JavaScript foundation."
+  },
+  {
+    "id": 3,
+    "title": "HTML and CSS for Beginners",
+    "category": "Web Design",
+    "author": "Amit Kumar",
+    "date": "October 25, 2026",
+    "image": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?w=600",
+    "description": "Discover how HTML and CSS work together to create beautiful and responsive web pages."
+  },
+  {
+    "id": 4,
+    "title": "Understanding React Components",
+    "category": "React",
+    "author": "Sneha Patil",
+    "date": "October 20, 2026",
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600",
+    "description": "Learn how to divide your React application into reusable and manageable components."
+  },
+  {
+    "id": 5,
+    "title": "Why Responsive Design Matters",
+    "category": "Web Design",
+    "author": "Arjun Singh",
+    "date": "October 15, 2026",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600",
+    "description": "Understand responsive design and make your website look great on mobile, tablet and desktop."
+  },
+  {
+    "id": 6,
+    "title": "JavaScript Array Methods",
+    "category": "JavaScript",
+    "author": "Neha Joshi",
+    "date": "October 10, 2026",
+    "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=600",
+    "description": "Explore useful array methods like map, filter and reduce with simple examples."
+  }
+]
